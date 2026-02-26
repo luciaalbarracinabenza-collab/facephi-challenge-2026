@@ -7,7 +7,7 @@ Para ejecutar correctamente el notebook es necesario descargar el repositorio co
 
 Pasos:
 
-1. Descargar el repositorio completo (Code → Download ZIP).
+1. Descargar el repositorio completo.
 2. Mantener la estructura original de carpetas.
 3. Abrir el archivo `Vidarte_Albarracin_FacephiChallenge2026.ipynb` en Jupyter o Google Colab.
 4. Ejecutar todas las celdas en orden.
